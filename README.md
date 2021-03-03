@@ -1,6 +1,6 @@
 # react-bookstore
 
-React BookStore App. Implemented using React and Firebase
+React BookStore App. Implemented using React and Firebase. Also hosted on http://thepacificbay.com/
 
 ## Features
 
